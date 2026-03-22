@@ -46,7 +46,7 @@ The application processes resumes by converting them into semantic embeddings us
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt(Models,Library etc)
    ```
 
 3. Start Ollama:
@@ -56,7 +56,7 @@ The application processes resumes by converting them into semantic embeddings us
 
 4. Pull a model:
    ```bash
-   ollama pull qwen2.5:0.8b
+   ollama pull qwen2.5:0.8b(Any Model)
    ```
 
 5. Run the application:
